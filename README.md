@@ -18,7 +18,7 @@ Este repositório contém um jogo simples de **jokenpô** (pedra, papel e tesour
   - `REGISTRY_PASSWORD`: Senha do ACR.
   - `RESOURCE_GROUP`: Nome do grupo de recursos do Azure.
   - `LOCATION`: Região do Azure (ex: `eastus`).
-  - ADICIONADOS
+  - ADICIONADOSOI
 
 ## Configurando o Projeto
 
